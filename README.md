@@ -205,7 +205,7 @@ Install extensions:
 ## 3. Clone Repository
 
 ```bash id="8e7j7s"
-git clone https://github.com/baseetnaseri/OmniSearch-AI.git
+git clone https://github.com/baseetnaseri6/OmniSearch-AI.git
 ```
 
 ---
