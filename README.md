@@ -303,7 +303,7 @@ Mohammad Baseet Naseri
 * Data Scientist
 * AI Engineer
 * Full-Stack Developer
-* Networking & Automation Enthusiast
+
 
 🌍 Portfolio:
 https://naseriai.com
