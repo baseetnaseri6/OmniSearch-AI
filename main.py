@@ -1,5 +1,4 @@
 from __future__ import annotations
-
 # Imports
 import base64
 import hashlib
