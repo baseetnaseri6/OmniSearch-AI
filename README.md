@@ -1,4 +1,4 @@
-# OmniSearch-AI 
+# OmniSearch-AI
 
 Modern AI-Powered Research Discovery Platform designed to explore the universe of academic research intelligently.
 
