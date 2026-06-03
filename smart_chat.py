@@ -1,14 +1,3 @@
-# smart_chat.py
-# Advanced, paper-aware chat widget for Streamlit apps.
-# Features:
-# • Intent router: summarize / authors / references / datasets / figures / generic Q&A
-# • RAG-style Q&A over the current paper (embeddings + BM25 fallback)
-# • Pretty “Reference Box” under each answer (title, authors, year, venue, DOI, links)
-# • PDF figure/image extraction (PyMuPDF) with graceful fallbacks
-# • Works without optional libs; degrades gently
-# • Keeps your glassmorphism/clean design vibe
-# • FIX: “images of this pdf/paper” now shows an inline thumbnail grid (no raw [[ ]] output)
-
 from __future__ import annotations
 
 import re
