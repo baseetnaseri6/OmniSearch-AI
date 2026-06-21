@@ -305,7 +305,7 @@ Mohammad Baseet Naseri
 * Full-Stack Developer
 
 
-Portfolio:
+Portfolio
 https://naseriai.com
 
 LinkedIn:
