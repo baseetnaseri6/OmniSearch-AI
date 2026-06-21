@@ -308,7 +308,7 @@ Mohammad Baseet Naseri
 Portfolio:
 https://naseriai.com
 
-💼 LinkedIn:
+LinkedIn:
 https://linkedin.com/in/baseetnaseri6
 
 💻 GitHub:
