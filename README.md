@@ -311,7 +311,7 @@ https://naseriai.com
 LinkedIn:
 https://linkedin.com/in/baseetnaseri6
 
-💻 GitHub:
+GitHub:
 https://github.com/baseetnaseri6
 
 ---
